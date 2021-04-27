@@ -1,11 +1,10 @@
 # Nvim
 
-- notes ohladne NeoVim
+## Start with init.vim
 
-## Vytvorenie foleru
-
-- najlepsie je vytvorit si folder pre configuraciu NEOVIM
-- vyrvor si folder : home/userName/.configure/nvim
+- create folder : home/yourUserName/.configure/nvim
+- copy repository
+- install vim-plug
 
 ```zsh
 curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
